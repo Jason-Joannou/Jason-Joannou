@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 I like the outdoors. I like good music. I occasionally code.
 
 
